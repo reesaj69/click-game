@@ -1,0 +1,15 @@
+.card {
+    box-shadow: 0px 3px 6px #999;
+    transition: transform .2s; /* Animation */
+    width: 100%;
+    height: 17.5vw;
+    object-fit: cover;
+    background: black;
+    
+
+  }
+  
+  .card:hover {
+    box-shadow: 0px 6px 16px #999;
+    transform: scale(1.1);
+  }

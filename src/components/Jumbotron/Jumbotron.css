@@ -1,0 +1,5 @@
+.jumbotron {
+    background-image: linear-gradient(rgba(42, 196, 106, 0.6), rgba(0, 0, 0, 0.6)), url("/images//weapons.jpg");
+    background-size: cover;
+    background-position: bottom;
+  }
